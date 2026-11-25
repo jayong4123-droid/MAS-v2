@@ -1,0 +1,5 @@
+department,praise_share,concern_share,suggestion_share,n_valid
+Dept A,0.27,0.26,0.32,29
+Dept B,0.25,0.22,0.46,10
+Dept C,0.24,0.3,0.17,66
+Dept D,0.26,0.11,0.05,28

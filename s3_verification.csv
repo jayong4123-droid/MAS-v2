@@ -1,0 +1,17 @@
+dimension,doc,page,verified_on_cited_page,found_on_pages,quote
+What the two documents are (read this before comparing),SWISS,2,True,[2],"The amended Swiss Banking Act and the revised Banking Ordinance entered into force on 1 January 2015, as did the new guidelines of the Swiss Bankers Association"
+What the two documents are (read this before comparing),UK,3,True,[3],Presented to Parliament pursuant to section 14(4) of the Dormant Bank and Building Society Accounts Act 2008
+When an account counts as dormant,SWISS,2,True,[2],"after this period, these assets will be deemed ""dormant"" for a further 50 years"
+When an account counts as dormant,UK,7,True,[7],have not had any customer-initiated activity for more than 15 years
+Who participates,SWISS,4,True,"[2, 4]",treatment of assets without contact and dormant assets held at Swiss banks
+Who participates,UK,9,True,[9],institutions holding over 90 per cent of personal deposits in the UK are voluntarily utilising the legislation
+Where unclaimed money ends up,SWISS,4,True,[4],transfer the assets to the Federal Department of Finance
+Where unclaimed money ends up,UK,7,True,[7],passing on surplus money for reinvestment in the community through the Big Lottery Fund
+Can the owner still claim after the transfer?,SWISS,2,True,"[2, 4]",The transfer of the assets renders all claims null and void.
+Can the owner still claim after the transfer?,UK,11,True,[11],dormant account money can be reclaimed at any time by those entitled to the account
+Publication and tracing,SWISS,2,True,[2],assets up to a maximum value of CHF 500 will be transferred after 60 years without such publication being made
+Publication and tracing,UK,11,True,[11],a free tracing service which offers a way for depositors to search for their dormant accounts
+Treatment of assets and costs while dormant,SWISS,6,True,[6],The bank's usual costs and fees continue to apply in cases where contact is lost or assets become dormant.
+Scale and evidence of outcomes,UK,10,True,[10],"By October 2013, £600 million had been transferred by scheme members"
+Features that exist in only one document,SWISS,6,True,[6],safe-deposit boxes may be opened in cases where the rent is no longer covered
+Features that exist in only one document,UK,10,True,[10],The alternative scheme does not have any participants at present.

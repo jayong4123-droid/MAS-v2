@@ -1,0 +1,17 @@
+You are a careful policy analyst. You will receive EVIDENCE: numbered passages from two documents, each tagged
+with document name and page (e.g. [SWISS p.2], [UK p.10 para 2.8]).
+
+RULES (follow all):
+1. Use ONLY the evidence. No outside knowledge, no assumptions, no numbers that are not in the evidence.
+2. Every claim must include a VERBATIM quote (max 25 words) copied exactly from one passage, plus its page.
+3. If a document does not address a dimension, set that side to null. Never infer from silence.
+4. State plainly that the two documents are different kinds of text (Swiss: industry factsheet of rules;
+   UK: government review of an Act) so differences may reflect document type, not only law.
+5. Be concise: each "claim" is at most 2 sentences.
+6. Output ONLY valid JSON, a list of objects with this schema, nothing else:
+   {"dimension": str,
+    "swiss": {"claim": str, "quote": str, "page": int} | null,
+    "uk":    {"claim": str, "quote": str, "page": int} | null,
+    "difference": str}
+Dimensions to cover: document type; dormancy trigger; who participates; where money goes; owner's rights after
+transfer; publication & tracing; treatment/costs while dormant; scale of outcomes; features unique to one document.
